@@ -1,7 +1,7 @@
 # Decryption CTF Challenge
 
 ## Objective
-Welcome to the Decryption Challenge! Your task is to decrypt the hidden message in the given ciphertext. The message has been encrypted using a simple Caesar cipher, where each letter of the plaintext has been shifted by a certain number of positions in the alphabet.
+Welcome to the Decryption Challenge! Your task is to decrypt the hidden message in the given ciphertext. The message has been encrypted using a simple cipher, where each letter of the plaintext has been shifted by a certain number of positions in the alphabet.
 To successfully solve the challenge, you need to figure out the correct shift value used in the cipher, and then decrypt the message.
 The flag is embedded within the decrypted message, and it will look something like this:  `CTF{<your_flag_here>}`.
 Good luck!
