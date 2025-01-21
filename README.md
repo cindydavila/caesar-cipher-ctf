@@ -1,12 +1,16 @@
 # Caesar Cipher Decryption CTF Challenge
 
 ## Objective
-Your task is to decrypt the hidden message in the following ciphertext. The message has been encrypted using a Caesar cipher with an unknown shift. Once decrypted, the flag will be in the format `CTF{<your_flag_here>}`.
+Welcome to the Caesar Cipher Decryption challenge! Your task is to decrypt the hidden message in the given ciphertext. The message has been encrypted using a simple Caesar cipher, where each letter of the plaintext has been shifted by a certain number of positions in the alphabet.
+To successfully solve the challenge, you need to figure out the correct shift value used in the cipher, and then decrypt the message.
+The flag is embedded within the decrypted message, and it will look something like this:  `CTF{<your_flag_here>}`.
+Good luck!
 
 ## Instructions
-1. You have been given an encrypted message using the Caesar cipher.
-2. Find the shift used for encryption and decrypt the message.
-3. Look for the flag inside the decrypted message.
+1.	Ciphertext: You have been given an encrypted message. The message has been scrambled using the Caesar cipher.
+2.	Key: The cipher is based on shifting each letter of the message by a fixed number of positions in the alphabet. The shift value is a number between 1 and 25 (both inclusive).
+3.	Task: Your goal is to decrypt the message and retrieve the flag hidden inside.
+
 
 ## Encrypted Message
 `Khoor Zruog! Wklv lv d FTF flag.`
