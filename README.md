@@ -13,7 +13,7 @@ Good luck!
 
 
 ## Encrypted Message
-`Khoor Zruog! Wklv lv d FTF flag.`
+`Khoor Zruog! Wklv lv d`
 
 ## Hint
 - The cipher uses a Caesar cipher.
